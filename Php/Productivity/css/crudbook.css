@@ -1,0 +1,13 @@
+/* page crudBook*/
+.crud-flex-container {
+    display: flex;
+    /*= a align-content + justify content*/
+    place-content: center;
+    height: auto;
+
+}
+
+h3 .crud {
+    text-align: center;
+    margin: 5rem;
+}

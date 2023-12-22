@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;700&display=swap');
+
+* {
+    font-family: "Nunito Sans";
+}
+
+
+/*
+button {
+    margin: 2rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+*/
+button {
+    margin: 20px;
+    font-size: 20px;
+    background: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00af94;
+    border: none;
+    transition: 500ms;
+}
+
+a {
+    text-decoration: none;
+    padding: 20px 10px 20px 10px;
+    margin: auto;
+
+}
+
+a:hover {
+    color: #ffffff;
+    transition: 500ms;
+}
+
+li {
+    list-style: none;
+}
+

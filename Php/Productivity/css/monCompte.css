@@ -1,0 +1,19 @@
+/* style erreur formulaire*/
+.error {
+    color: #FF0000;
+}
+
+.user-container {
+    display: flex;
+    place-content: center;
+
+}
+
+div.form-group > input {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+

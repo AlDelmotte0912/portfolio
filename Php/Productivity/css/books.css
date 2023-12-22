@@ -1,0 +1,39 @@
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flex-container > div {
+    margin: 5rem;
+    color: #676767;
+    font-size: large;
+}
+
+
+.autheur {
+    font-style: italic;
+    font-size: small;
+    font-weight: lighter;
+    color: #5c636a;
+}
+
+li > button {
+    margin: 2rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+li > button:hover {
+
+    border-bottom: solid 1px #00af94;
+
+
+}
+
+li:last-child {
+    list-style: none;
+}
+
+
+

@@ -1,0 +1,80 @@
+table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+tbody {
+    display: flex;
+    position: relative;
+    align-items: stretch;
+    overflow: hidden;
+    overflow-y: scroll;
+    justify-content: space-around;
+}
+
+tbody.recap {
+    overflow-y: unset;
+    overflow: unset;
+
+}
+
+tr.recap {
+    height: auto;
+}
+
+tr {
+    flex-basis: 33.33333333%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    height: 150px;
+
+}
+
+
+th, td {
+    flex-basis: 100%;
+    display: flex;
+
+
+}
+
+
+.icofont-check {
+    color: #07e307;
+}
+
+.icofont-close {
+    color: red;
+}
+
+
+.custom-checkbox .checked {
+    display: none;
+}
+
+.custom-checkbox input[type="checkbox"]:checked {
+    display: none;
+}
+
+.custom-checkbox input[type="checkbox"]:checked ~ .checked {
+    display: inline-block;
+}
+
+.custom-checkbox input[type="checkbox"]:checked ~ .unchecked {
+    display: inline-block;
+}
+
+/* permet de supprimer le style du boutton mais
+pour le moment laisser car plus claire pour le developement
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+*/
+
+.error {
+    color: #FF0000;
+}

@@ -1,0 +1,63 @@
+/*
+table {
+    width: 95%;
+    table-layout:fixed;
+    margin-top: 25px;
+
+}
+
+thead {
+    background-color: #354c69;
+    color: #fff;
+}
+
+table tr th:first-child{
+    width: 15%;
+}
+table tr td:first-child{
+    text-align: justify;
+
+}
+table tr:nth-child(even) td{
+    background-color: rgb(238, 234, 234); ;
+}
+th , td {
+    padding: 1rem;
+text-align: center;
+    vertical-align: middle;
+}
+
+.icofont-check{
+    color: #07e307;
+}
+
+.icofont-close{
+    color: red;
+}
+
+
+
+*/
+
+
+/*
+.custom-checkbox .checked
+ {
+    display: none;
+}
+.custom-checkbox input[type="checkbox"]:checked{
+    display: none;
+}
+.custom-checkbox input[type="checkbox"]:checked ~ .checked
+{
+    display: inline-block;
+}
+.custom-checkbox input[type="checkbox"]:checked ~ .unchecked
+{
+    display: inline-block;
+}
+
+
+*/
+
+
