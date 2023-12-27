@@ -1,8 +1,0 @@
-- quand clique sur modif la liste avoir page pour selectionner soit suppr, créer ou modifier puis
-redirection vers la bonne page
-
-- que l'alerte disparaisse après 5 secondes
-
-- pour la suppression / creation est ce qu'on ne pourrait pas avoir une croix qui appparais quand on
- passe sur le titre et pour la creation que le dernier li soit vide et qu'on puisse criquer dessus
- pour activer le form de creation(mouais bof)

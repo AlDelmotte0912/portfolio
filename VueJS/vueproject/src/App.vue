@@ -48,7 +48,7 @@ export default {
       this.showModal2 = !this.showModal2;
     },
     sayThanks() {
-      document.getElementById("thanks").innerHTML = "merci le sang";
+      document.getElementById("thanks").innerHTML = "merci";
     },
   },
 };
